@@ -24,6 +24,30 @@
     "country": []
   },
   {
+    "id": "1532170700591206410",
+    "name": "Marvel Strike Force",
+    "game": "Marvel Strike Force",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-07-31T20:50:00+00:00",
+    "expiresAt": "2026-08-21T06:59:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1532170700591206410/1532820368165703690.jpg",
+    "country": []
+  },
+  {
     "id": "1530306200694947850",
     "name": "League of Legends Classic",
     "game": "LEAGUE OF LEGENDS CLASSIC",
@@ -51,27 +75,27 @@
     "country": []
   },
   {
-    "id": "1532170700591206410",
-    "name": "Marvel Strike Force",
-    "game": "Marvel Strike Force",
+    "id": "1533861934078890124",
+    "name": "AC Black Flag Resynced",
+    "game": "Assassin's Creed Black Flag Resynced",
     "rewards": [
       {
         "type": 4,
         "sku_id": "1287881739531976815",
         "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
+          "name": "700 Orbs",
+          "name_with_article": "700 Orbs",
           "redemption_instructions_by_platform": {
             "0": "PLACEHOLDER"
           }
         },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
+        "orb_quantity": 700,
+        "premium_orb_quantity": 840
       }
     ],
-    "startsAt": "2026-07-31T20:50:00+00:00",
-    "expiresAt": "2026-08-21T06:59:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1532170700591206410/1532820368165703690.jpg",
+    "startsAt": "2026-08-03T18:58:00+00:00",
+    "expiresAt": "2026-08-17T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1523842681770475550/1533860382362304553.jpg",
     "country": []
   },
   {
@@ -318,6 +342,30 @@
     "country": []
   },
   {
+    "id": "1536670919660142672",
+    "name": "OneState RP - Role Play Life",
+    "game": "OneState RP - Role Play Life",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-11T17:00:00+00:00",
+    "expiresAt": "2026-08-25T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1536670919660142672/1536688798325542983.jpg",
+    "country": []
+  },
+  {
     "id": "1533983564327030865",
     "name": "Genshin Impact Version 7.0",
     "game": "Genshin Impact",
@@ -368,6 +416,30 @@
     "country": []
   },
   {
+    "id": "1534276813554061433",
+    "name": "Episode Reality Stars",
+    "game": "Episode Reality Stars",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-10T17:00:00+00:00",
+    "expiresAt": "2026-08-24T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1534276813554061433/1534279243796582462.jpg",
+    "country": []
+  },
+  {
     "id": "1534395181334270063",
     "name": "Version Update: Liino",
     "game": "Arknights: Endfield",
@@ -414,6 +486,32 @@
     "expiresAt": "2026-08-17T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1530297854134849778/1530298674503225454.jpg",
     "country": []
+  },
+  {
+    "id": "1516888752536948938",
+    "name": "Save on Everything College",
+    "game": "Save on Everything College",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-06T17:00:00+00:00",
+    "expiresAt": "2026-08-31T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1516888752536948938/1519016454844973176.jpg",
+    "country": [
+      "US"
+    ]
   },
   {
     "id": "1519102841594187796",
@@ -560,32 +658,6 @@
     "country": []
   },
   {
-    "id": "1516888752536948938",
-    "name": "Save on Everything College",
-    "game": "Save on Everything College",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-08-06T17:00:00+00:00",
-    "expiresAt": "2026-08-31T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1516888752536948938/1519016454844973176.jpg",
-    "country": [
-      "US"
-    ]
-  },
-  {
     "id": "1523782263291252816",
     "name": "MONOPOLY GO",
     "game": "MONOPOLY GO",
@@ -634,81 +706,9 @@
     "country": []
   },
   {
-    "id": "1536670919660142672",
-    "name": "OneState RP - Role Play Life",
-    "game": "OneState RP - Role Play Life",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-08-11T17:00:00+00:00",
-    "expiresAt": "2026-08-25T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1536670919660142672/1536688798325542983.jpg",
-    "country": []
-  },
-  {
-    "id": "1534276813554061433",
-    "name": "Episode Reality Stars",
-    "game": "Episode Reality Stars",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-08-10T17:00:00+00:00",
-    "expiresAt": "2026-08-24T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1534276813554061433/1534279243796582462.jpg",
-    "country": []
-  },
-  {
     "id": "1523842681770475550",
     "name": "AC Black Flag Resynced",
     "game": "the limited time Assassin's Creed Black Flag Resynced Trial",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "700 Orbs",
-          "name_with_article": "700 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 700,
-        "premium_orb_quantity": 840
-      }
-    ],
-    "startsAt": "2026-08-03T18:58:00+00:00",
-    "expiresAt": "2026-08-17T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1523842681770475550/1533860382362304553.jpg",
-    "country": []
-  },
-  {
-    "id": "1533861934078890124",
-    "name": "AC Black Flag Resynced",
-    "game": "Assassin's Creed Black Flag Resynced",
     "rewards": [
       {
         "type": 4,
@@ -775,8 +775,6 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-21T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": [
-      "FR"
-    ]
+    "country": []
   }
 ]
