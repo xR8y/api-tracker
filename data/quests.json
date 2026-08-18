@@ -24,6 +24,30 @@
     "country": []
   },
   {
+    "id": "1529273018927415296",
+    "name": "Bloons TD 6 Shop in Discord",
+    "game": "Bloons TD 6 Shop in Discord",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-11T17:00:00+00:00",
+    "expiresAt": "2026-08-19T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1529273018927415296/1534681047587885186.jpg",
+    "country": []
+  },
+  {
     "id": "1536795790717091970",
     "name": "NBA 2K27 Content Drop",
     "game": "NBA 2K27",
@@ -270,9 +294,9 @@
     "country": []
   },
   {
-    "id": "1536472460059349192",
-    "name": "Bloons TD 6 Shop in Discord",
-    "game": "Bloons TD 6 Shop in Discord",
+    "id": "1521935381434466505",
+    "name": "Mac Students",
+    "game": "Great ideas start on Mac",
     "rewards": [
       {
         "type": 4,
@@ -288,10 +312,12 @@
         "premium_orb_quantity": 240
       }
     ],
-    "startsAt": "2026-08-11T17:00:00+00:00",
-    "expiresAt": "2026-08-19T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1529273018927415296/1534681047587885186.jpg",
-    "country": []
+    "startsAt": "2026-07-08T17:00:00+00:00",
+    "expiresAt": "2026-08-24T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
+    "country": [
+      "DE"
+    ]
   },
   {
     "id": "1536670919660142672",
@@ -440,6 +466,32 @@
     "country": []
   },
   {
+    "id": "1537163738577117337",
+    "name": "The Uprising",
+    "game": "The Uprising | Only In Theaters September 11",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-17T17:00:00+00:00",
+    "expiresAt": "2026-09-07T06:59:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1526313972947488949/1526316913553313965.jpg",
+    "country": [
+      "US"
+    ]
+  },
+  {
     "id": "1538813720396955708",
     "name": "The Weavers - Join the Playtest",
     "game": "The Weavers",
@@ -464,6 +516,30 @@
     "country": [
       "US"
     ]
+  },
+  {
+    "id": "1536472460059349192",
+    "name": "Bloons TD 6 Shop in Discord",
+    "game": "Bloons TD 6 Shop in Discord",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-11T17:00:00+00:00",
+    "expiresAt": "2026-08-19T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1529273018927415296/1534681047587885186.jpg",
+    "country": []
   },
   {
     "id": "1516888752536948938",
@@ -516,6 +592,54 @@
     "country": [
       "US"
     ]
+  },
+  {
+    "id": "1532150126540361938",
+    "name": "Hulu Animayhem",
+    "game": "Watch adult animation on Hulu and Disney+",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-03T17:00:00+00:00",
+    "expiresAt": "2026-08-31T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1532150126540361938/1532856403763531776.jpg",
+    "country": []
+  },
+  {
+    "id": "1520181992006619207",
+    "name": "MONOPOLY GO",
+    "game": "MONOPOLY GO",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-06-29T17:00:00+00:00",
+    "expiresAt": "2026-08-24T06:59:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1520181992006619207/1537955368699830302.jpg",
+    "country": []
   },
   {
     "id": "1519102841594187796",
@@ -614,78 +738,6 @@
     "country": []
   },
   {
-    "id": "1520181992006619207",
-    "name": "MONOPOLY GO",
-    "game": "MONOPOLY GO",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-06-29T17:00:00+00:00",
-    "expiresAt": "2026-08-24T06:59:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1520181992006619207/1537955368699830302.jpg",
-    "country": []
-  },
-  {
-    "id": "1529273018927415296",
-    "name": "Bloons TD 6 Shop in Discord",
-    "game": "Bloons TD 6 Shop in Discord",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-08-11T17:00:00+00:00",
-    "expiresAt": "2026-08-19T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1529273018927415296/1534681047587885186.jpg",
-    "country": []
-  },
-  {
-    "id": "1532150126540361938",
-    "name": "Hulu Animayhem",
-    "game": "Watch adult animation on Hulu and Disney+",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-08-03T17:00:00+00:00",
-    "expiresAt": "2026-08-31T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1532150126540361938/1532856403763531776.jpg",
-    "country": []
-  },
-  {
     "id": "1537517701982064721",
     "name": "Game of Thrones: Dragonfire",
     "game": "Game of Thrones: Dragonfire",
@@ -707,6 +759,8 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-21T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   }
 ]
