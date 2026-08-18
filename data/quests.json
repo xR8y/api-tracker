@@ -533,7 +533,7 @@
     "country": []
   },
   {
-    "id": "1537137394975772693",
+    "id": "1534613925767676096",
     "name": "Marvel Tokon: Fighting Souls",
     "game": "Marvel Tokon: Fighting Souls",
     "rewards": [
@@ -553,36 +553,8 @@
     ],
     "startsAt": "2026-08-17T20:50:00+00:00",
     "expiresAt": "2026-09-05T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1537137394975772693/1537137920362815609.jpg",
-    "country": [
-      "GB"
-    ]
-  },
-  {
-    "id": "1521935381434466505",
-    "name": "Mac Students",
-    "game": "Great ideas start on Mac",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "200 Orbs",
-          "name_with_article": "200 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 200,
-        "premium_orb_quantity": 240
-      }
-    ],
-    "startsAt": "2026-07-08T17:00:00+00:00",
-    "expiresAt": "2026-08-24T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
-    "country": [
-      "GB"
-    ]
+    "hero": "https://cdn.discordapp.com/quests/1534613925767676096/1536463047453970432.jpg",
+    "country": []
   },
   {
     "id": "1536670919660142672",
@@ -654,30 +626,6 @@
     "startsAt": "2026-08-10T17:00:00+00:00",
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1534276813554061433/1534279243796582462.jpg",
-    "country": []
-  },
-  {
-    "id": "1534613925767676096",
-    "name": "Marvel Tokon: Fighting Souls",
-    "game": "Marvel Tokon: Fighting Souls",
-    "rewards": [
-      {
-        "type": 4,
-        "sku_id": "1287881739531976815",
-        "messages": {
-          "name": "700 Orbs",
-          "name_with_article": "700 Orbs",
-          "redemption_instructions_by_platform": {
-            "0": "PLACEHOLDER"
-          }
-        },
-        "orb_quantity": 700,
-        "premium_orb_quantity": 840
-      }
-    ],
-    "startsAt": "2026-08-17T20:50:00+00:00",
-    "expiresAt": "2026-09-05T00:00:00+00:00",
-    "hero": "https://cdn.discordapp.com/quests/1534613925767676096/1536463047453970432.jpg",
     "country": []
   },
   {
