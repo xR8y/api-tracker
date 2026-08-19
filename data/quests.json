@@ -711,7 +711,9 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-21T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   },
   {
     "id": "1537137394975772693",
@@ -761,6 +763,32 @@
     "startsAt": "2026-07-08T17:00:00+00:00",
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
+    "country": [
+      "GB"
+    ]
+  },
+  {
+    "id": "1534593692739043348",
+    "name": "Battlefield 6 Top Gun-Mission",
+    "game": "Battlefield",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "700 Orbs",
+          "name_with_article": "700 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 700,
+        "premium_orb_quantity": 840
+      }
+    ],
+    "startsAt": "2026-08-19T16:00:00+00:00",
+    "expiresAt": "2026-08-29T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1534593692739043348/1539347155331059853.jpg",
     "country": []
   }
 ]
