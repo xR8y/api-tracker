@@ -661,7 +661,9 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-21T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   },
   {
     "id": "1537137394975772693",
@@ -712,7 +714,7 @@
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
     "country": [
-      "GB"
+      "FR"
     ]
   },
   {
@@ -838,5 +840,34 @@
     "expiresAt": "2026-09-01T06:59:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1539100692541743216/1539107002083577916.jpg",
     "country": []
+  },
+  {
+    "id": "1539360322421268627",
+    "name": "Fortnite Override",
+    "game": "Fortnite",
+    "rewards": [
+      {
+        "type": 3,
+        "sku_id": "1539361544284938270",
+        "asset": "quests/1539074454225690648/1539361796601684089.mp4",
+        "asset_video": null,
+        "messages": {
+          "name": "Fortnite Override Avatar Decoration",
+          "name_with_article": "a Fortnite Override Avatar Decoration",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "expires_at": "2026-10-30T00:00:00+00:00",
+        "expires_at_premium": null,
+        "expiration_mode": 3
+      }
+    ],
+    "startsAt": "2026-08-20T13:00:00+00:00",
+    "expiresAt": "2026-08-31T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1539074454225690648/1539307518860197950.jpg",
+    "country": [
+      "PT"
+    ]
   }
 ]
