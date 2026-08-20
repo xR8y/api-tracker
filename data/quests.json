@@ -939,5 +939,29 @@
     "expiresAt": "2026-08-29T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1537161325170532412/1537163384959533136.jpg",
     "country": []
+  },
+  {
+    "id": "1539783929567911996",
+    "name": "Avatar: Realms Collide",
+    "game": "Choose Your Nation",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-20T17:45:00+00:00",
+    "expiresAt": "2026-09-03T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1539783929567911996/1539786826187931699.jpg",
+    "country": []
   }
 ]
