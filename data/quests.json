@@ -422,7 +422,7 @@
   {
     "id": "1535343840557539408",
     "name": "Insidious: Out Of The Further",
-    "game": "INSIDIOUS: Out Of The Further in cinemas August 21st",
+    "game": "Now Playing Exclusively in Theatres",
     "rewards": [
       {
         "type": 4,
@@ -686,7 +686,7 @@
     "expiresAt": "2026-09-05T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1537137394975772693/1537137920362815609.jpg",
     "country": [
-      "GB"
+      "Unknown"
     ]
   },
   {
@@ -711,7 +711,9 @@
     "startsAt": "2026-07-08T17:00:00+00:00",
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   },
   {
     "id": "1534593692739043348",
