@@ -639,7 +639,9 @@
     "startsAt": "2026-07-08T17:00:00+00:00",
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
-    "country": []
+    "country": [
+      "GB"
+    ]
   },
   {
     "id": "1534593692739043348",
@@ -1013,7 +1015,9 @@
     "startsAt": "2026-08-21T17:15:00+00:00",
     "expiresAt": "2026-08-31T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1524461100614160435/1529276841863417856.jpg",
-    "country": []
+    "country": [
+      "GB"
+    ]
   },
   {
     "id": "1540167642952761424",
@@ -1037,6 +1041,30 @@
     "startsAt": "2026-08-21T18:00:00+00:00",
     "expiresAt": "2026-09-02T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1540167642952761424/1540179224848244806.jpg",
+    "country": []
+  },
+  {
+    "id": "1532170700591206410",
+    "name": "Marvel Strike Force",
+    "game": "Marvel Strike Force",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-07-31T20:50:00+00:00",
+    "expiresAt": "2026-08-28T06:59:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1532170700591206410/1532820368165703690.jpg",
     "country": []
   }
 ]
