@@ -968,5 +968,29 @@
     "country": [
       "US"
     ]
+  },
+  {
+    "id": "1532567061241528410",
+    "name": "Call of Duty: Modern Warfare 4",
+    "game": "Call of Duty: Modern Warfare 4",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-21T18:00:00+00:00",
+    "expiresAt": "2026-09-02T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1532567061241528410/1539834855712620574.jpg",
+    "country": []
   }
 ]
