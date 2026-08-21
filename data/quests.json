@@ -589,7 +589,9 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-28T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   },
   {
     "id": "1537137394975772693",
@@ -640,7 +642,7 @@
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
     "country": [
-      "FR"
+      "DE"
     ]
   },
   {
@@ -942,5 +944,31 @@
     "expiresAt": "2026-08-28T06:59:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
     "country": []
+  },
+  {
+    "id": "1537145020958900394",
+    "name": "Resident Evil",
+    "game": "Resident Evil - Filmed for IMAX - in theatres 9.18",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "200 Orbs",
+          "name_with_article": "200 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 200,
+        "premium_orb_quantity": 240
+      }
+    ],
+    "startsAt": "2026-08-21T17:00:00+00:00",
+    "expiresAt": "2026-09-05T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1537145020958900394/1537145370856005653.jpg",
+    "country": [
+      "US"
+    ]
   }
 ]
