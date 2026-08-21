@@ -639,7 +639,9 @@
     "startsAt": "2026-07-08T17:00:00+00:00",
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
-    "country": []
+    "country": [
+      "FR"
+    ]
   },
   {
     "id": "1534593692739043348",
@@ -965,8 +967,7 @@
     "hero": "https://cdn.discordapp.com/quests/1537145020958900394/1537145370856005653.jpg",
     "country": [
       "US"
-    ],
-    "ageRestricted": true
+    ]
   },
   {
     "id": "1532567061241528410",
@@ -990,8 +991,7 @@
     "startsAt": "2026-08-21T18:00:00+00:00",
     "expiresAt": "2026-09-02T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1532567061241528410/1539834855712620574.jpg",
-    "country": [],
-    "ageRestricted": true
+    "country": []
   },
   {
     "id": "1540204098790494268",
@@ -1015,10 +1015,7 @@
     "startsAt": "2026-08-21T17:15:00+00:00",
     "expiresAt": "2026-08-31T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1524461100614160435/1529276841863417856.jpg",
-    "country": [
-      "GB"
-    ],
-    "ageRestricted": true
+    "country": []
   },
   {
     "id": "1540167642952761424",
@@ -1042,8 +1039,7 @@
     "startsAt": "2026-08-21T18:00:00+00:00",
     "expiresAt": "2026-09-02T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1540167642952761424/1540179224848244806.jpg",
-    "country": [],
-    "ageRestricted": true
+    "country": []
   },
   {
     "id": "1532170700591206410",
