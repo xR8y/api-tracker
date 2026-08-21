@@ -965,7 +965,8 @@
     "hero": "https://cdn.discordapp.com/quests/1537145020958900394/1537145370856005653.jpg",
     "country": [
       "US"
-    ]
+    ],
+    "ageRestricted": true
   },
   {
     "id": "1532567061241528410",
