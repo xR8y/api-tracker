@@ -589,9 +589,7 @@
     "startsAt": "2026-08-14T18:00:00+00:00",
     "expiresAt": "2026-08-28T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1527464720183984268/1527475268703228024.jpg",
-    "country": [
-      "FR"
-    ]
+    "country": []
   },
   {
     "id": "1537137394975772693",
@@ -642,7 +640,7 @@
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
     "country": [
-      "FR"
+      "GB"
     ]
   },
   {
@@ -993,6 +991,30 @@
     "startsAt": "2026-08-21T18:00:00+00:00",
     "expiresAt": "2026-09-02T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1532567061241528410/1539834855712620574.jpg",
+    "country": []
+  },
+  {
+    "id": "1540204098790494268",
+    "name": "Dragon Age™: The Veilguard",
+    "game": "Dragon Age™: The Veilguard",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "700 Orbs",
+          "name_with_article": "700 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 700,
+        "premium_orb_quantity": 840
+      }
+    ],
+    "startsAt": "2026-08-21T17:15:00+00:00",
+    "expiresAt": "2026-08-31T00:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1524461100614160435/1529276841863417856.jpg",
     "country": []
   }
 ]
