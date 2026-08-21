@@ -1016,7 +1016,8 @@
     "hero": "https://cdn.discordapp.com/quests/1524461100614160435/1529276841863417856.jpg",
     "country": [
       "GB"
-    ]
+    ],
+    "ageRestricted": true
   },
   {
     "id": "1540167642952761424",
