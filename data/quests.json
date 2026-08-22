@@ -666,7 +666,7 @@
     "expiresAt": "2026-08-24T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1521935381434466505/1521941666771243088.jpg",
     "country": [
-      "FR"
+      "DE"
     ],
     "ageRestricted": false,
     "linked": false
@@ -1072,7 +1072,7 @@
     "expiresAt": "2026-08-31T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1524461100614160435/1529276841863417856.jpg",
     "country": [
-      "CA"
+      "US"
     ],
     "ageRestricted": true,
     "linked": false
@@ -1207,6 +1207,34 @@
     "hero": "https://cdn.discordapp.com/quests/1539533765070553089/1539750827663687772.jpg",
     "country": [
       "DK"
+    ],
+    "ageRestricted": false,
+    "linked": false
+  },
+  {
+    "id": "1539528344608182353",
+    "name": "New Area: Yinglung Pass",
+    "game": "Arknights: Endfield",
+    "rewards": [
+      {
+        "type": 4,
+        "sku_id": "1287881739531976815",
+        "messages": {
+          "name": "700 Orbs",
+          "name_with_article": "700 Orbs",
+          "redemption_instructions_by_platform": {
+            "0": "PLACEHOLDER"
+          }
+        },
+        "orb_quantity": 700,
+        "premium_orb_quantity": 840
+      }
+    ],
+    "startsAt": "2026-08-22T04:00:00+00:00",
+    "expiresAt": "2026-09-01T04:00:00+00:00",
+    "hero": "https://cdn.discordapp.com/quests/1539528344608182353/1539533050344505386.jpg",
+    "country": [
+      "CA"
     ],
     "ageRestricted": false,
     "linked": false
