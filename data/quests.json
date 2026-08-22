@@ -1042,7 +1042,7 @@
     "expiresAt": "2026-09-02T00:00:00+00:00",
     "hero": "https://cdn.discordapp.com/quests/1540167642952761424/1540179224848244806.jpg",
     "country": [],
-    "ageRestricted": false
+    "ageRestricted": true
   },
   {
     "id": "1532170700591206410",
